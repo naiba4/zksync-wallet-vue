@@ -45,7 +45,7 @@
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.16.0",
     "node-fetch": "^3.2.10",
-    "tslib": "^2.3.1"
+    "tslib": "^2.4.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.6",
