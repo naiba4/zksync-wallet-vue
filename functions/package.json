@@ -41,7 +41,7 @@
   "version": "0.0.1",
   "main": "lib/index.js",
   "dependencies": {
-    "@sentry/node": "^6.17.2",
+    "@sentry/node": "^6.19.7",
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.16.0",
     "node-fetch": "^3.2.10",
