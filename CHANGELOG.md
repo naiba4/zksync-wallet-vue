@@ -1,3 +1,45 @@
+## [3.26.4](https://github.com/matter-labs/zksync-wallet-vue/compare/3.26.3...3.26.4) (2023-01-03)
+
+
+### Bug Fixes
+
+* formatting error ([#312](https://github.com/matter-labs/zksync-wallet-vue/issues/312)) ([e909d55](https://github.com/matter-labs/zksync-wallet-vue/commit/e909d553b1c70fb04cc8d89c0f508d2ed7cc6103))
+
+## [3.26.3](https://github.com/matter-labs/zksync-wallet-vue/compare/3.26.2...3.26.3) (2022-12-29)
+
+
+### Bug Fixes
+
+* argent ([#310](https://github.com/matter-labs/zksync-wallet-vue/issues/310)) ([7543c75](https://github.com/matter-labs/zksync-wallet-vue/commit/7543c75f51a355b554ace12a5948cd15b6d773b5))
+
+## [3.26.2](https://github.com/matter-labs/zksync-wallet-vue/compare/3.26.1...3.26.2) (2022-12-21)
+
+
+### Bug Fixes
+
+* wallet connect login ([#308](https://github.com/matter-labs/zksync-wallet-vue/issues/308)) ([43ee675](https://github.com/matter-labs/zksync-wallet-vue/commit/43ee67596a1b3c012bfecfffc83bdabeed9e2197))
+
+## [3.26.1](https://github.com/matter-labs/zksync-wallet-vue/compare/3.26.0...3.26.1) (2022-12-17)
+
+
+### Bug Fixes
+
+* wallet connect v2 ([#306](https://github.com/matter-labs/zksync-wallet-vue/issues/306)) ([ffae437](https://github.com/matter-labs/zksync-wallet-vue/commit/ffae437b27c7e58349a3c2750ab9f4311e409732))
+
+# [3.26.0](https://github.com/matter-labs/zksync-wallet-vue/compare/3.25.1...3.26.0) (2022-12-09)
+
+
+### Features
+
+* unstoppable domains ([#303](https://github.com/matter-labs/zksync-wallet-vue/issues/303)) ([89de2f4](https://github.com/matter-labs/zksync-wallet-vue/commit/89de2f43b57a1dd1425588454ef47f191f18356f))
+
+## [3.25.1](https://github.com/matter-labs/zksync-wallet-vue/compare/3.25.0...3.25.1) (2022-12-01)
+
+
+### Bug Fixes
+
+* replace discord link ([#301](https://github.com/matter-labs/zksync-wallet-vue/issues/301)) ([aa4fc26](https://github.com/matter-labs/zksync-wallet-vue/commit/aa4fc2680455401a682ed5e40c550e3ae88ac5b0))
+
 # [3.25.0](https://github.com/matter-labs/zksync-wallet-vue/compare/3.24.4...3.25.0) (2022-10-17)
 
 
