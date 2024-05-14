@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@inkline/inkline": "^2.3.6",
-    "@inkline/nuxt": "^2.3.6",
+    "@inkline/nuxt": "^3.0.0",
     "@matterlabs/eslint-config-nuxt": "^1.0.6",
     "@matterlabs/prettier-config": "^1.0.2",
     "@matterlabs/zksync-nuxt-core": "1.9.7",
@@ -68,7 +68,7 @@
     "moment-timezone": "^0.5.34",
     "multiformats": "^9.4.7",
     "node-sass": "^6.0.1",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "nuxt-typed-vuex": "^0.3.0",
     "oh-vue-icons": "^0.4.7",
     "vue-qrcode": "0.4.0",
