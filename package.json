@@ -68,7 +68,7 @@
     "moment-timezone": "^0.5.34",
     "multiformats": "^9.4.7",
     "node-sass": "^6.0.1",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.15.0",
     "nuxt-typed-vuex": "^0.3.0",
     "oh-vue-icons": "^0.4.7",
     "vue-qrcode": "0.4.0",
